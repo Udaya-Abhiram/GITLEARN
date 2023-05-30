@@ -1,0 +1,6 @@
+Hello all
+
+This text file mainly describes about index.html 
+
+
+The repository is just for understanding the commands
